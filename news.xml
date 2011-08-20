@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="iso-8859-1"?>
+<news>
+	<nodo id="1">
+		<title>José Carlos Yazbek deixa direção da AMD depois de 11 anos</title>
+		<subtitle>Publicada em 28 de setembro de 2007 às 19h03</subtitle>
+		<content>José Carlos Yazbek deixou nesta sexta-feira (28/09) a fabricante de processadores AMD, empresa na qual trabalhou nos últimos 11 anos.<br />O executivo atualmente era diretor de vendas e distribuição na companhia para a América Latina. Ele chegou também a ser responsável pela subsidiária brasileira da AMD de agosto de 2005 a abril de 2007.<br />"Saio com a missão cumprida", declarou Yazbek, em uma conversa há pouco por telefone. "A empresa conquistou a confiança do mercado e expandiu seu relacionamento".<br />Em um e-mail de despedida, Yazbek escreveu que quando começou na empresa "tínhamos um market share pequeno e um grande desafio em nossa frente. A vontade de brigar, a convicção da vitória e a consciência sobre competição aberta, tudo isso nos encorajou para a batalha do dia-a-dia".<br />A AMD ainda não decidiu quem vai ocupar a vaga ocupada por Yazbek.
+		</content>
+	</nodo>
+	<nodo id="2">
+		<title>GeForce 8600 GT "Turbinada" da ASUS</title>
+		<subtitle>28 de setembro de 2007 - 09:54 H</subtitle>
+		<content>A ASUS lançou a EN8600GT TOP/HTDP/256M, uma placa de vídeo PCI Express x16 equipada com o chip gráfico GeForce 8600 GT rodando a 600 MHz (11,11% acima do clock padrão de 540 MHz) e vindo com 256 MB de memória GDDR3 sendo acessada a 2.016 MHz (44% acima do clock padrão de 1,4 GHz) transferindo 128 bits por vez. Seus motores de sombreamento rodam a 1.458 MHz, um aumento de 22,7% sobre o clock padrão de 1.188 MHz. Esta placa suporta a tecnologia da ASUS SmartDoctor, que permite ao usuário aumentar o clock do processador de sombreamento e do chip gráfico de forma independente e vem com memórias de 1 ns. Além disso a ASUS diz que o cooler usado nesta placa faz o chip gráfico dissipar 13º C a menos do que em placas usando o cooler padrão da nVidia.
+		</content>
+	</nodo>
+	<nodo id="3">
+		<title>Excel 2007 não faz contas corretamente</title>
+		<subtitle>28/09/2007 07:03:53</subtitle>
+		<content>Parece mentira mas o Excel 2007 está com problemas para multiplicar 850 por 77,1. Ou quando o resultado é 65.535.<br />Depois de muito barulho, a Microsoft acabou adimitindo:<br />"A maioria dos relatórios tinha foco na multiplicação, mas nossos testes mostraram que o bug não tem nada a ver com a multiplicação", disse David Gainer, chefe de projeto do Excel. "Ele se manifesta em muitos, mas não todos os cálculos do Excel que tragam o resultado 65.535. Testes adicionais mostraram resultados similares com o número 65.536 também".
+		</content>
+	</nodo>
+	<nodo id="4">
+		<title>Excel 2007 não faz contas corretamente</title>
+		<subtitle>28/09/2007 07:03:53</subtitle>
+		<content>Parece mentira mas o Excel 2007 está com problemas para multiplicar 850 por 77,1. Ou quando o resultado é 65.535.<br />Depois de muito barulho, a Microsoft acabou adimitindo:<br />"A maioria dos relatórios tinha foco na multiplicação, mas nossos testes mostraram que o bug não tem nada a ver com a multiplicação", disse David Gainer, chefe de projeto do Excel. "Ele se manifesta em muitos, mas não todos os cálculos do Excel que tragam o resultado 65.535. Testes adicionais mostraram resultados similares com o número 65.536 também".
+		</content>
+	</nodo>
+	<nodo id="5">
+		<title>Roteiro de novo filme de Coppola roubado em Buenos Aires</title>
+		<subtitle>27/09/2007 - 11h07 - Atualizado em 27/09/2007 - 11h35</subtitle>
+		<content>Cinco homens armados invadiram na noite de quarta-feira a casa que o cineasta americano Francis Ford Coppola tem em Buenos Aires e roubaram seu computador, levando junto o roteiro de seu novo filme, "Tetro", que deve ser rodado na Argentina, em 2008, informou a polícia nesta quinta-feira.<br />Os ladrões forçaram a porta do antigo casarão de dois andares que o diretor, que não se encontrava no local, comprou há alguns meses por US$ 900 mil no elegante bairro de Palermo. A casa também é sede da produtora do filme, Zoetrope Argentina, fundada por Coppola em meados do ano.<br />Os assaltantes dominaram a única pessoa que estava no local, um colaborador do cineasta, e o agrediram sem gravidade. Depois levaram todos os aparelhos eletrônicos que puderam carregar, incluindo computadores.
+		</content>
+	</nodo>
+	<nodo id="6">
+		<title>José Carlos Yazbek deixa direção da AMD depois de 11 anos</title>
+		<subtitle>Publicada em 28 de setembro de 2007 às 19h03</subtitle>
+		<content>José Carlos Yazbek deixou nesta sexta-feira (28/09) a fabricante de processadores AMD, empresa na qual trabalhou nos últimos 11 anos.<br />O executivo atualmente era diretor de vendas e distribuição na companhia para a América Latina. Ele chegou também a ser responsável pela subsidiária brasileira da AMD de agosto de 2005 a abril de 2007.<br />"Saio com a missão cumprida", declarou Yazbek, em uma conversa há pouco por telefone. "A empresa conquistou a confiança do mercado e expandiu seu relacionamento".<br />Em um e-mail de despedida, Yazbek escreveu que quando começou na empresa "tínhamos um market share pequeno e um grande desafio em nossa frente. A vontade de brigar, a convicção da vitória e a consciência sobre competição aberta, tudo isso nos encorajou para a batalha do dia-a-dia".<br />A AMD ainda não decidiu quem vai ocupar a vaga ocupada por Yazbek.
+		</content>
+	</nodo>
+	<nodo id="7">
+		<title>AMD Lança Athlon 64 X2 5000+ "Black Edition"</title>
+		<subtitle>25 de setembro de 2007 - 11:00 H</subtitle>
+		<content>A AMD lançou mais um processador dentro da sua série “Black Edition”, que é voltada para usuários entusiastas em overclock. O Athlon 64 X2 5000+ “Black Edition” é um processador de dois núcleos que trabalha internamente a 2,6 GHz, possui um controlador de memória DDR2 dual-channel, 1 MB de cache L2 (512 KB por núcleo), dissipa 65 W e possui o seu multiplicador de clock destravado. O Athlon 64 X2 5000+ "Black Edition" custa nos EUA US$ 136 (em lotes de mil unidades). Só para efeito de comparação, o Athlon 64 X2 5000+ convencional custa nos EUA US$ 125 (em lotes de mil unidades).
+		</content>
+	</nodo>
+	<nodo id="8">
+		<title>AMD Lança Athlon 64 X2 5000+ "Black Edition"</title>
+		<subtitle>25 de setembro de 2007 - 11:00 H</subtitle>
+		<content>A AMD lançou mais um processador dentro da sua série “Black Edition”, que é voltada para usuários entusiastas em overclock. O Athlon 64 X2 5000+ “Black Edition” é um processador de dois núcleos que trabalha internamente a 2,6 GHz, possui um controlador de memória DDR2 dual-channel, 1 MB de cache L2 (512 KB por núcleo), dissipa 65 W e possui o seu multiplicador de clock destravado. O Athlon 64 X2 5000+ "Black Edition" custa nos EUA US$ 136 (em lotes de mil unidades). Só para efeito de comparação, o Athlon 64 X2 5000+ convencional custa nos EUA US$ 125 (em lotes de mil unidades).
+		</content>
+	</nodo>
+</news>
